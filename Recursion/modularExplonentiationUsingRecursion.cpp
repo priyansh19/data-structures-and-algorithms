@@ -1,0 +1,41 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/* 
+ * File:   main.cpp
+ * Author: Priyanka
+ *
+ * Created on May 27, 2019, 3:35 PM
+ */
+
+#include <iostream>
+
+using namespace std;
+//To calculate exp(a,b) mod c
+//Using (a*b)mod c = [(a mod c)*(b mod c)]mod c
+mexp(int x,int n,int c)
+{
+    if(n==0){ return 1;}
+
+    else if(n%2==0)
+    {
+        int y=mexp(x,n/2,c);
+        return ((y*y)%c);
+    }
+    else
+    {
+        return (((x%c)*(mexp(x,n-1,c)%c))%c);
+    }
+}
+int main() 
+{
+
+    cout<<"exp(4,3) mod 5= "<<mexp(4,3,5)<<endl;
+     cout<<"exp(3,3) mod 6= "<<mexp(3,3,6);
+    return 0;
+}
+
+
