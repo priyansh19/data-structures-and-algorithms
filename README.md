@@ -19,3 +19,9 @@ Learnt about -
 5. Iterative reversal of the Linked list.
 6. Recursive reversal of the Linked list.
 7. Printing the entire Linked List
+## Day 3
+### <a href="data-structures/DoublyLinkedList.cpp">Doubly Linked List</a>
+Learnt about -
+1. Doubly Linked List implementation in C++.
+2. Insertion in Doubly Linked List.
+3. Printing the entire Linked List - forward and reverse.
