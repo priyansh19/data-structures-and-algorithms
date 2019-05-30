@@ -25,3 +25,12 @@ Learnt about -
 1. Doubly Linked List implementation in C++.
 2. Insertion in Doubly Linked List.
 3. Printing the entire Linked List - forward and reverse.
+## Day 4
+### <a href="data-structures/SinglyCircularLinkedList.cpp">Singly Circular Linked List</a>
+Learnt about -
+1. Circular Linked List implementation in C++.
+2. Insertion in Circular Linked List at the beginning.
+3. Printing the entire Linked List - forward and reverse.
+4. Splitting the circular Linked list - using tortoise and hare algorithm.
+5. Deleting particular node in Circular Linked List.
+6. Reversing a circular Linked List.
