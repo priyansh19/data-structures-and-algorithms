@@ -34,3 +34,9 @@ Learnt about -
 4. Splitting the circular Linked list - using tortoise and hare algorithm.
 5. Deleting particular node in Circular Linked List.
 6. Reversing a circular Linked List.
+## Day 5
+### <a href="data-structures/Stack.cpp">Stack implementation using Linked List</a>
+### <a href="Recursion/LinkedListReverseUsingStack.cpp">Reversing a Linked List using Stack</a>
+### <a href="Recursion/StringReverseUsingStack.cpp">Reversing a String using Stack</a>
+
+
