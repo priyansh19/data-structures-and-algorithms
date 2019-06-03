@@ -36,7 +36,7 @@ Learnt about -
 6. Reversing a circular Linked List.
 ## Day 5
 ### <a href="data-structures/Stack.cpp">Stack implementation using Linked List</a>
-### <a href="Recursion/LinkedListReverseUsingStack.cpp">Reversing a Linked List using Stack</a>
-### <a href="Recursion/StringReverseUsingStack.cpp">Reversing a String using Stack</a>
+### <a href="data-structures/LinkedListReverseUsingStack.cpp">Reversing a Linked List using Stack</a>
+### <a href="data-structures/StringReverseUsingStack.cpp">Reversing a String using Stack</a>
 
 
