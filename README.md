@@ -38,5 +38,8 @@ Learnt about -
 ### <a href="data-structures/Stack.cpp">Stack implementation using Linked List</a>
 ### <a href="data-structures/LinkedListReverseUsingStack.cpp">Reversing a Linked List using Stack</a>
 ### <a href="data-structures/StringReverseUsingStack.cpp">Reversing a String using Stack</a>
+## Day 6
+### <a href="data-structures/QueueUsingLinkedList.cpp">Queue implementation using Linked List</a>
+### <a href="data-structures/QueueUsingCircularArray.cpp">Queue implementation using Circular Array</a>
 
 
