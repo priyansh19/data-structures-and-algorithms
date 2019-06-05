@@ -10,7 +10,7 @@ This repository contains source code of data structures in C++.
 <a href="Recursion/fibonacciRecursionUsingMemorization.cpp"> 5. Exponential Using Recursion </a><br>
 <a href="Recursion/modularExplonentiationUsingRecursion.cpp"> 6. Modular Exponential Using Recursion </a><br>
 ## Day 2
-### <a href="data-structures/LinkedList.cpp">Linked List</a>
+### <a href="linear-ds/LinkedList.cpp">Linked List</a>
 Learnt about -
 1. Linked List implementation in C++.
 2. Insertion at end, beginning, after a node.
@@ -20,13 +20,13 @@ Learnt about -
 6. Recursive reversal of the Linked list.
 7. Printing the entire Linked List
 ## Day 3
-### <a href="data-structures/DoublyLinkedList.cpp">Doubly Linked List</a>
+### <a href="linear-ds/DoublyLinkedList.cpp">Doubly Linked List</a>
 Learnt about -
 1. Doubly Linked List implementation in C++.
 2. Insertion in Doubly Linked List.
 3. Printing the entire Linked List - forward and reverse.
 ## Day 4
-### <a href="data-structures/SinglyCircularLinkedList.cpp">Singly Circular Linked List</a>
+### <a href="linear-ds/SinglyCircularLinkedList.cpp">Singly Circular Linked List</a>
 Learnt about -
 1. Circular Linked List implementation in C++.
 2. Insertion in Circular Linked List at the beginning.
@@ -35,11 +35,11 @@ Learnt about -
 5. Deleting particular node in Circular Linked List.
 6. Reversing a circular Linked List.
 ## Day 5
-### <a href="data-structures/Stack.cpp">Stack implementation using Linked List</a>
-### <a href="data-structures/LinkedListReverseUsingStack.cpp">Reversing a Linked List using Stack</a>
-### <a href="data-structures/StringReverseUsingStack.cpp">Reversing a String using Stack</a>
+### <a href="linear-ds/Stack.cpp">Stack implementation using Linked List</a>
+### <a href="linear-ds/LinkedListReverseUsingStack.cpp">Reversing a Linked List using Stack</a>
+### <a href="linear-ds/StringReverseUsingStack.cpp">Reversing a String using Stack</a>
 ## Day 6
-### <a href="data-structures/QueueUsingLinkedList.cpp">Queue implementation using Linked List</a>
-### <a href="data-structures/QueueUsingCircularArray.cpp">Queue implementation using Circular Array</a>
+### <a href="linear-ds/QueueUsingLinkedList.cpp">Queue implementation using Linked List</a>
+### <a href="linear-ds/QueueUsingCircularArray.cpp">Queue implementation using Circular Array</a>
 
 
