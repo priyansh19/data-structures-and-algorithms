@@ -41,5 +41,19 @@ Learnt about -
 ## Day 6
 ### <a href="linear-ds/QueueUsingLinkedList.cpp">Queue implementation using Linked List</a>
 ### <a href="linear-ds/QueueUsingCircularArray.cpp">Queue implementation using Circular Array</a>
+## Day 7
+### <a href="non-linear-ds/BinarySearchTree.cpp">Singly Circular Linked List</a>
+Learnt about -
+1. Binary Search Tree implementation in C++.
+2. Insertion, Deletion and Searching in a Binary Tree.
+3. Finding Minimum and Maximum element in BST.
+4. Finding height of the BST.
+5. Binary Tree Traversal - BFS(also k/a Level Order Traversal).
+6. Binary Tree Traversal - DFS[PreOrder, InOrder, PostOrder].
+7. Check if given tree is BST.
+8. Deleting a specific node from BST.
+9. Finding the inorder successor of a node.
+10. Memory allocation in BST.
+
 
 
