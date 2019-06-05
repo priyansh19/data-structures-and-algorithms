@@ -42,7 +42,7 @@ Learnt about -
 ### <a href="linear-ds/QueueUsingLinkedList.cpp">Queue implementation using Linked List</a>
 ### <a href="linear-ds/QueueUsingCircularArray.cpp">Queue implementation using Circular Array</a>
 ## Day 7
-### <a href="non-linear-ds/BinarySearchTree.cpp">Singly Circular Linked List</a>
+### <a href="non-linear-ds/BinarySearchTree.cpp">Binary Search Tree</a>
 Learnt about -
 1. Binary Search Tree implementation in C++.
 2. Insertion, Deletion and Searching in a Binary Tree.
