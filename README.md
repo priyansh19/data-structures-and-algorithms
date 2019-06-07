@@ -1,6 +1,7 @@
-# data-structures
-This repository contains source code of data structures in C++.
-<br>
+# data-structures-and-algorithms
+This repository contains source code of data structures and algorithms in C++.
+
+## Data Structures
 ## Day 1
 ### Recursion
 <a href="Recursion/factorialUsingRecursion.cpp"> 1. Factorial Using Recursion </a><br>
@@ -55,5 +56,7 @@ Learnt about -
 9. Finding the inorder successor of a node.
 10. Memory allocation in BST.
 
-
-
+## Algorithms
+## Day 8
+### <a href="algorithms/PeakFinder-1d.cpp">Peak Finder in a 1d array</a>
+### <a href="algorithms/PeakFinder-2d.cpp">Peak Finder in a 2d matrix</a>
