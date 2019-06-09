@@ -60,3 +60,7 @@ Learnt about -
 ## Day 8
 ### <a href="algorithms/PeakFinder-1d.cpp">Peak Finder in a 1d array</a>
 ### <a href="algorithms/PeakFinder-2d.cpp">Peak Finder in a 2d matrix</a>
+## Day 9
+### <a href="algorithms/InsertionSort-Iterative.cpp">InsertionSort-Iterative</a>
+### <a href="algorithms/InsertionSort-Recursive.cpp">InsertionSort-Recursive</a>
+### <a href="algorithms/MergeSort.cpp">Merge Sort</a>
