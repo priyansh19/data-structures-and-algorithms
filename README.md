@@ -67,7 +67,7 @@ Learnt about -
 ## Day 11
 ### <a href="non-linear-ds/Graphs.cpp">Graphs</a>
 Learnt about -
-1. Implementation og Graphs in C++ using vectors.
+1. Implementation of Graphs in C++ using vectors.
 2. Implementation of adjacency linked lists using dynamic lists.
 3. BFS and DFS traversal.
 4. Detecting Cycle in directed and undirected graphs.
