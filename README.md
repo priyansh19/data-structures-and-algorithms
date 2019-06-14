@@ -1,7 +1,6 @@
 # data-structures-and-algorithms
 This repository contains source code of data structures and algorithms in C++.
 
-## Data Structures
 ## Day 1
 ### Recursion
 <a href="Recursion/factorialUsingRecursion.cpp"> 1. Factorial Using Recursion </a><br>
@@ -55,8 +54,6 @@ Learnt about -
 8. Deleting a specific node from BST.
 9. Finding the inorder successor of a node.
 10. Memory allocation in BST.
-
-## Algorithms
 ## Day 8
 ### <a href="algorithms/PeakFinder-1d.cpp">Peak Finder in a 1d array</a>
 ### <a href="algorithms/PeakFinder-2d.cpp">Peak Finder in a 2d matrix</a>
@@ -64,3 +61,7 @@ Learnt about -
 ### <a href="algorithms/InsertionSort-Iterative.cpp">InsertionSort-Iterative</a>
 ### <a href="algorithms/InsertionSort-Recursive.cpp">InsertionSort-Recursive</a>
 ### <a href="algorithms/MergeSort.cpp">Merge Sort</a>
+## Day 10
+### <a href="non-linear-ds/AVLinsertion.cpp">Insertion in AVL trees</a>
+### <a href="non-linear-ds/AVLdeletion.cpp">Deletion in AVL Trees</a>
+
