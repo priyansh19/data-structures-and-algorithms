@@ -71,3 +71,7 @@ Learnt about -
 2. Implementation of adjacency linked lists using dynamic lists.
 3. BFS and DFS traversal.
 4. Detecting Cycle in directed and undirected graphs.
+## Day 12
+### <a href="non-linear-ds/MinHeap.cpp">Min Heaps</a>
+### <a href="non-linear-ds/PriorityQueue.cpp">Priority Queue</a>
+
